@@ -1,0 +1,6 @@
+I was trying to do the transcript in unix but whatever I try to run the program it always give me different answer while
+it is give me the same answer in my computer
+this is the output I recieve in my computer:
+The first 10 pouplar movie is ["1293", "1536", "1599", "1653", "814", "1500", "1189", "1467", "1122", "1201"] 
+ the last 10 not poplar movies is ["1659", "1334", "424", "1626", "1352", "1341", "1325", "1162", "1671", "1574"]
+ the most similar to user 1 is user ["812", "418", "155"]

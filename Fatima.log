@@ -1,0 +1,9 @@
+Script started on Mon Jun  4 09:54:52 2012
+threnody:PA1 abudeebf$ ruby Movie.dat[K[K[K[K_data.rb
+ The first 10 pouplar movie is ["1293", "1536", "1599", "1653", "814", "1500", "1189", "1467", "1122", "1201"] 
+ the last 10 not poplar movies is ["1659", "1334", "424", "1626", "1352", "1341", "1325", "1162", "1671", "1574"]
+ the most similar to user 1 is user ["812", "418", "155"]
+threnody:PA1 abudeebf$ exist[K[K[Kit
+exit
+
+Script done on Mon Jun  4 09:55:24 2012
